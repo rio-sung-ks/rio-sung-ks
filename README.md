@@ -25,12 +25,12 @@
 
 ## Skills
 <div style="margin: ; text-align: left;" "text-align: left;"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Javascript-FFFFFF?style=flat-square&logo=JavaScript&logoColor=F7DF1E" height="30"/>
+  <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/ReactNative-FFFFFF?style=flat-square&logo=React&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=flat-square&logo=TailwindCSS&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Redux-FFFFFF?style=flat-square&logo=Redux&logoColor=764ABC"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-FFFFFF?style=flat-square&logo=AmazonS3&logoColor=569A31"/>
+  <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=flat-square&logo=HTML5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/Supabase-FFFFFF?style=flat-square&logo=Supabase&logoColor=3ECF8E"/>
 </div>
