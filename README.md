@@ -24,21 +24,45 @@
 <Br />
 
 ## Skills
+
+#### Fronted
 <div style="margin: ; text-align: left;" "text-align: left;"> 
 <img src="https://img.shields.io/badge/Javascript-FFFFFF?style=flat-square&logo=JavaScript&logoColor=F7DF1E" height="30"/>
 <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=React&logoColor=61DAFB" height="30"/>
-<img src="https://img.shields.io/badge/ReactNative-FFFFFF?style=flat-square&logo=React&logoColor=61DAFB" height="30"/>
+<img
+  src="https://img.shields.io/badge/React%20Native-FFFFFF?style=flat-square&logoWidth=26&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BCiAgPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzAiIGZpbGw9IiMyMDIzMkEiLz4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMiAzMikiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzYxREFGQiIgc3Ryb2tlLXdpZHRoPSIzIj4KICAgIDxlbGxpcHNlIHJ4PSIxOCIgcnk9IjciLz4KICAgIDxlbGxpcHNlIHJ4PSIxOCIgcnk9IjciIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjE4IiByeT0iNyIgdHJhbnNmb3JtPSJyb3RhdGUoMTIwKSIvPgogIDwvZz4KICA8Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSI0IiBmaWxsPSIjNjFEQUZCIi8%2BCjwvc3ZnPg%3D%3D"
+  height="40"
+/>
 <img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=flat-square&logo=TailwindCSS&logoColor=06B6D4" height="30"/>
   <img
-  src="https://img.shields.io/badge/Zustand-FFFFFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CjxyZWN0IHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgcng9IjgiIGZpbGw9IiNmZmYiLz4KPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSI+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxOCIgcj0iOCIgdmlld0JveD0iMCAwIDY0IDY0IiBmaWxsPSIjMDAwIi8+CiAgPGNpcmNsZSBjeD0iNDYiIGN5PSIxOCIgcj0iOCIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOm11bHRpcGx5OyIgZmlsbD0iIzAwMCIvPgogIDxjaXJjbGUgY3g9IjMyIiBjeT0iMzYiIHI9IjIyIiBmaWxsPSIjMDAwIi8+CiAgPGNpcmNsZSBjeD0iMzIiIGN5PSI0MiIgcj0iMTAiIGZpbGw9IiNmZmYiLz4KICA8Y2lyY2xlIGN4PSIzMiIgY3k9IjQyIiByPSIzLjUiIGZpbGw9IiMwMDAiLz4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjM0IiByPSIzIiBmaWxsPSIjZmZmIi8+CiAgPGNpcmNsZSBjeD0iNDAiIGN5PSIzNCIgcj0iMyIgZmlsbD0iI2ZmZiIvPgo8L2c+Cjwvc3ZnPg==" 
+  src="https://img.shields.io/badge/Zustand-FFFFFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CjxyZWN0IHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgcng9IjgiIGZpbGw9IiNmZmYiLz4KPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwwKSI+CiAgPGNpcmNsZSBjeD0iMTgiIGN5PSIxOCIgcj0iOCIgdmlld0JveD0iMCAwIDY0IDY0IiBmaWxsPSIjODA2NDUzIi8+CiAgPGNpcmNsZSBjeD0iNDYiIGN5PSIxOCIgcj0iOCIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOm11bHRpcGx5OyIgZmlsbD0iIzgwNjQ1MyIvPgogIDxjaXJjbGUgY3g9IjMyIiBjeT0iMzYiIHI9IjIyIiBmaWxsPSIjODA2NDUzIi8+CiAgPGNpcmNsZSBjeD0iMzIiIGN5PSI0MiIgcj0iMTAiIGZpbGw9IiNmZmYiLz4KICA8Y2lyY2xlIGN4PSIzMiIgY3k9IjQyIiByPSIzLjUiIGZpbGw9IiM4MDY0NTMiLz4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjM0IiByPSIzIiBmaWxsPSIjZmZmIi8+CiAgPGNpcmNsZSBjeD0iNDAiIGN5PSIzNCIgcj0iMyIgZmlsbD0iI2ZmZiIvPgo8L2c+Cjwvc3ZnPg==" 
   height="30"
 />
-<img src="https://img.shields.io/badge/Redux-FFFFFF?style=flat-square&logo=Redux&logoColor=764ABC" height="30"/>
+</div>
+
+#### Backend
+<div style="margin: ; text-align: left;" "text-align: left;"> 
+<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=Nodedotjs&logoColor=339933" height="30"/>
+<img src="https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=Express&logoColor=000000" height="30"/>
+ 
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BCiAgPHBhdGggZmlsbD0iIzM3NzZBQiIgZD0iTTEyIC4zYy0yLjYgMC00LjYgMS41LTQuNiAzLjR2Mi41aDQuN3YxLjNINS44Yy0xLjkgMC0zLjUgMS44LTMuNSA0VjE1YzAgMi4yIDEuNiA0IDMuNSA0aDIuMXYtMi44YzAtMS45IDEuNi0zLjQgMy41LTMuNGg1LjJjMS41IDAgMi43LTEuMyAyLjctMi45VjMuN2MwLTEuOS0yLTMuNC00LjYtMy40eiIvPgogIDxwYXRoIGZpbGw9IiNGRUQ0M0IiIGQ9Ik0xMiAyMy43YzIuNiAwIDQuNi0xLjUgNC42LTMuNHYtMi41aC00Ljd2LTEuM2g2LjNjMS45IDAgMy41LTEuOCAzLjUtNFY5YzAtMi4yLTEuNi00LTMuNS00aC0yLjF2Mi44YzAgMS45LTEuNiAzLjQtMy41IDMuNEg3LjRjLTEuNSAwLTIuNyAxLjMtMi43IDIuOXY2LjJjMCAxLjkgMiAzLjQgNC42IDMuNHoiLz4KPC9zdmc%2B" height="30"/>
+ 
+<img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=Flask&logoColor=000000" height="30"/>
+</div>
+
+#### Infra
+<div style="margin: ; text-align: left;" "text-align: left;"> 
+
 <img src="https://img.shields.io/badge/Vercel-FFFFFF?style=flat-square&logo=Vercel&logoColor=000000" height="30"/>
 <img
   src="https://img.shields.io/badge/Amazon%20S3-FFFFFF?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zycgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxyZWN0IHdpZHRoPScyNTYnIGhlaWdodD0nMjU2JyByeD0nNDgnIGZpbGw9JyM1NjlBMzEnLz48dGV4dCB4PSc1MCUnIHk9JzUwJScgZG9taW5hbnQtYmFzZWxpbmU9J21pZGRsZScgYWxpZ25tZW50LWJhc2VsaW5lPSdtZWRpdW0nIGZvbnQtZmFtaWx5PSdBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmJyBmb250LXNpemU9JzEyMCcgdGV4dC1hbmNob3I9J21pZGRsZScgZmlsbD0nd2hpdGUnPlMzPC90ZXh0Pjwvc3ZnPg%3D%3D"
+  height="30"ㅛ
+/>
+<img
+  src="https://img.shields.io/badge/AWS%20EC2-FFFFFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cmVjdCB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgcng9IjQ4IiBmaWxsPSIjRkY5OTAwIi8+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTI4LDEyOCkiPjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJjZW50cmFsIiBmb250LWZhbWlseT0iQXJpYWwsIEhlbHZldGljYSwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMTAiIGZpbGw9IiNGRkZGRkYiPkVDMjwvdGV4dD48L2c+PC9zdmc+" 
   height="30"
 />
-<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=flat-square&logo=HTML5&logoColor=E34F26" height="30"/>
 <img src="https://img.shields.io/badge/Supabase-FFFFFF?style=flat-square&logo=Supabase&logoColor=3ECF8E" height="30"/>
+
+
 </div>
