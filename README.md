@@ -11,9 +11,9 @@
 
 ## Projects
 #### GPTeacher &nbsp; [프론트엔드 레포지토리](https://github.com/Ai-daily-quiz/GPTeacher-frontend) | [서버 레포지토리](https://github.com/Ai-daily-quiz/GPTeacher-backend) | [배포 사이트](https://dk44bvz564mpy.cloudfront.net)
-> ##### 팀 프로젝트 (총 3주, 기획 1주 / 핵심 기능 개발 2주) 
+> ##### 개인 프로젝트 (총 4주, 기획 1주 / 핵심 기능 개발 3주)
 >
-> 생성형 Ai를 활용해 사용자가 제공한 텍스트나 PDF 파일 내용을 기반으로 맞춤형 퀴즈를 제작해주는 학습 플랫폼입니다.<br />
+> 생성형 AI를 활용해 사용자가 제공한 텍스트나 PDF 파일 내용을 기반으로 맞춤형 퀴즈를 제작해주는 학습 플랫폼입니다.<br />
 > 정보 소비를 넘어 정보 생산에 기반한 학습이라는 새로운 학습 경험을 제공합니다.
 #### Pre-Yous &nbsp; [레포지토리](https://github.com/kamera-project/Pre-Yous) | <img src="https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png" width="20" align="top"> [앱스토어](https://apps.apple.com/kr/app/pre-yous/id6747673290)
 > ##### 팀 프로젝트 (총 4주, 1주 기획 / 3주 기능 개발) 
