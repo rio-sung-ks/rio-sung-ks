@@ -10,7 +10,7 @@
 <br/>
 
 ## Projects
-#### GPTeacher &nbsp; [프론트엔드 레포지토리](https://github.com/Ai-daily-quiz/GPTeacher-frontend) | [서버 레포지토리](https://github.com/Ai-daily-quiz/GPTeacher-backend) | [배포 사이트](https://dk44bvz564mpy.cloudfront.net)
+#### GPTeacher &nbsp; [프론트엔드 레포지토리](https://github.com/Ai-daily-quiz/GPTeacher-frontend) | [서버 레포지토리](https://github.com/Ai-daily-quiz/GPTeacher-backend) | [배포 사이트](https://www.gp-teacher.com/)
 > ##### 개인 프로젝트 (총 4주, 기획 1주 / 핵심 기능 개발 3주)
 >
 > 생성형 AI를 활용해 사용자가 제공한 텍스트나 PDF 파일 내용을 기반으로 맞춤형 퀴즈를 제작해주는 학습 플랫폼입니다.<br />
