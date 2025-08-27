@@ -70,6 +70,7 @@
   height="30"
 />
 <img src="https://img.shields.io/badge/Supabase-FFFFFF?style=flat-square&logo=Supabase&logoColor=3ECF8E" height="30"/>
+<img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=flat-square&logo=MongoDB&logoColor=47A248" height="30"/>
 
 
 </div>
