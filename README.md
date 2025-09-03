@@ -15,7 +15,7 @@
 >
 > 생성형 AI를 활용해 사용자가 제공한 텍스트나 PDF 파일 내용을 기반으로 맞춤형 퀴즈를 제작해주는 학습 플랫폼입니다.<br />
 > 정보 소비를 넘어 정보 생산에 기반한 학습이라는 새로운 학습 경험을 제공합니다.
-#### Pre-Yous &nbsp; [레포지토리](https://github.com/kamera-project/Pre-Yous) | <img src="https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png" width="20" align="top"> [앱스토어](https://apps.apple.com/kr/app/pre-yous/id6747673290)
+#### Pre-Yous &nbsp; [레포지토리](https://github.com/rio-sung-ks/Pre-Yous) | <img src="https://developer.apple.com/assets/elements/icons/app-store/app-store-128x128_2x.png" width="20" align="top"> [앱스토어](https://apps.apple.com/kr/app/pre-yous/id6747673290)
 > ##### 팀 프로젝트 (총 4주, 1주 기획 / 3주 기능 개발) 
 >
 > Pre-Yous는 사진을 촬영하기에 앞서 오버레이 스케치로 촬영 구도를 도와주는 카메라 앱입니다.<br />
